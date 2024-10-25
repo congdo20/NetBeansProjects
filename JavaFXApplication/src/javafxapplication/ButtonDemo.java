@@ -1,4 +1,4 @@
-package javafxapplication1;
+package javafxapplication;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

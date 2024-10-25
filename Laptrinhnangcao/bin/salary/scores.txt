@@ -1,7 +1,0 @@
-Nguyen Van A 9
-Nguyen Van B 8
-Nguyen Van C 8
-Nguyen Van D 8
-Nguyen Van E 8
-
-Nguyen Van O 8

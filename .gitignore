@@ -8,3 +8,8 @@ javafx-sdk-*/
 *.docx
 *.pdf
 
+/JavaFXApplication1/dist/
+/JavaFXApplication/nbproject/private/
+/JavaFXApplication/build/
+/JavaFXApplication/dist/
+/Gui/build/
