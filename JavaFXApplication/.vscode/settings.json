@@ -1,0 +1,15 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/trinhdo/Documents/EclipseProjects/javafx-sdk-23.0.1/lib/javafx-swt.jar",
+        "/Users/trinhdo/Documents/EclipseProjects/javafx-sdk-23.0.1/lib/javafx.base.jar",
+        "/Users/trinhdo/Documents/EclipseProjects/javafx-sdk-23.0.1/lib/javafx.controls.jar",
+        "/Users/trinhdo/Documents/EclipseProjects/javafx-sdk-23.0.1/lib/javafx.fxml.jar",
+        "/Users/trinhdo/Documents/EclipseProjects/javafx-sdk-23.0.1/lib/javafx.graphics.jar",
+        "/Users/trinhdo/Documents/EclipseProjects/javafx-sdk-23.0.1/lib/javafx.media.jar",
+        "/Users/trinhdo/Documents/EclipseProjects/javafx-sdk-23.0.1/lib/javafx.swing.jar",
+        "/Users/trinhdo/Documents/EclipseProjects/javafx-sdk-23.0.1/lib/javafx.web.jar",
+        "/Users/trinhdo/Documents/EclipseProjects/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0.jar",
+        "/Users/trinhdo/Documents/JavaFXJDK/zulu23.30.13-ca-fx-jdk23.0.1-macosx_aarch64/**/*.jar"
+    ]
+}

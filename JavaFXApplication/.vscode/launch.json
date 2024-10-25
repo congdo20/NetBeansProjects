@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CheckBoxDemo",
+            "request": "launch",
+            "mainClass": "laptrinhnangcao.CheckBoxDemo",
+            "projectName": "JavaFXApplication_7d45f379"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BindingDemo",
+            "request": "launch",
+            "mainClass": "laptrinhnangcao.BindingDemo",
+            "projectName": "JavaFXApplication_7d45f379"
+        },
+        {
+            "type": "java",
+            "name": "ButtonDemo",
+            "request": "launch",
+            "mainClass": "laptrinhnangcao.ButtonDemo",
+            "projectName": "JavaFXApplication_7d45f379"
+        },
+        {
+            "type": "java",
+            "name": "ControlCircleWithMouseAndKey",
+            "request": "launch",
+            "mainClass": "laptrinhnangcao.ControlCircleWithMouseAndKey",
+            "projectName": "JavaFXApplication_7d45f379"
+        },
+        {
+            "type": "java",
+            "name": "DanhBa",
+            "request": "launch",
+            "mainClass": "laptrinhnangcao.DanhBa",
+            "projectName": "JavaFXApplication_7d45f379"
+        },
+        {
+            "type": "java",
+            "name": "FontDemo",
+            "request": "launch",
+            "mainClass": "laptrinhnangcao.FontDemo",
+            "projectName": "JavaFXApplication_7d45f379"
+        },
+        {
+            "type": "java",
+            "name": "HandleEvent",
+            "request": "launch",
+            "mainClass": "laptrinhnangcao.HandleEvent",
+            "projectName": "JavaFXApplication_7d45f379"
+        },
+        {
+            "type": "java",
+            "name": "JavaFXApplication",
+            "request": "launch",
+            "mainClass": "laptrinhnangcao.JavaFXApplication",
+            "projectName": "JavaFXApplication_7d45f379"
+        },
+        {
+            "type": "java",
+            "name": "LambdaHandlerDemo",
+            "request": "launch",
+            "mainClass": "laptrinhnangcao.LambdaHandlerDemo",
+            "projectName": "JavaFXApplication_7d45f379"
+        },
+        {
+            "type": "java",
+            "name": "MouseEventDemo",
+            "request": "launch",
+            "mainClass": "laptrinhnangcao.MouseEventDemo",
+            "projectName": "JavaFXApplication_7d45f379"
+        },
+        {
+            "type": "java",
+            "name": "NodeStyleRotateDemo",
+            "request": "launch",
+            "mainClass": "laptrinhnangcao.NodeStyleRotateDemo",
+            "projectName": "JavaFXApplication_7d45f379"
+        },
+        {
+            "type": "java",
+            "name": "ShowCircle",
+            "request": "launch",
+            "mainClass": "laptrinhnangcao.ShowCircle",
+            "projectName": "JavaFXApplication_7d45f379"
+        },
+        {
+            "type": "java",
+            "name": "ShowGridPane",
+            "request": "launch",
+            "mainClass": "laptrinhnangcao.ShowGridPane",
+            "projectName": "JavaFXApplication_7d45f379"
+        }
+    ]
+}

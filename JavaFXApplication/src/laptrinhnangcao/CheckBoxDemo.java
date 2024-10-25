@@ -5,6 +5,11 @@
 package laptrinhnangcao;
 
 import java.io.FileNotFoundException;
+
+import javafx.event.ActionEvent;
+import javafx.event.EventHandler;
+import javafx.geometry.Insets;
+import javafx.scene.control.CheckBox;
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.VBox;
 import javafx.scene.text.Font;
@@ -28,8 +33,33 @@ public class CheckBoxDemo extends ButtonDemo {
         
         text.setFont(fontNormal);
         VBox paneForCheckBoxes = new VBox(20);
+        paneForCheckBoxes.setPadding(new Insets(5, 5, 5, 5));
+        paneForCheckBoxes.setStyle("-fx-border-color: green");
+        CheckBox chkBold = new CheckBox("Bold");
+        CheckBox chkItalic = new CheckBox("Italic");
+        paneForCheckBoxes.getChildren().addAll(chkBold, chkItalic);
+        pane.setRight(paneForCheckBoxes);
         
-        
+        EventHandler<ActionEvent> handler = e -> {
+            if(chkBold.isSelected() && chkItalic.isSelected()) {
+                text.setFont(fontBoldItalic);
+            } else if (chkBold.isSelected()) {
+                text.setFont(fontBold);
+            } else if (chkItalic.isSelected()) {
+                text.setFont(fontItalic);
+            } else {
+                text.setFont(fontNormal);
+            }
+        };
+
+        chkBold.setOnAction(handler);
+        chkItalic.setOnAction(handler);
+        return pane;
+
+    }
+
+    public static void main(String[] args) {
+        launch(args);
     }
     
     
