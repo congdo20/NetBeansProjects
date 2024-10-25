@@ -1,4 +1,4 @@
-package javafxapplication;
+package laptrinhnangcao;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -21,8 +21,8 @@ public class ButtonDemo extends Application {
         HBox paneForButtons = new HBox(20);
 
         // Load hình ảnh từ đường dẫn
-        ImageView imgLeft = new ImageView(new Image(new FileInputStream("C:\\Users\\donct\\Pictures\\anh1.png")));
-        ImageView imgRight = new ImageView(new Image(new FileInputStream("C:\\Users\\donct\\Pictures\\anh1.png")));
+        ImageView imgLeft = new ImageView(new Image(new FileInputStream("/Users/trinhdo/Pictures/AndroidStudioImages/b.png")));
+        ImageView imgRight = new ImageView(new Image(new FileInputStream("/Users/trinhdo/Pictures/AndroidStudioImages/b.png")));
         
         // Tạo các nút với hình ảnh
         Button btLeft = new Button("Left", imgLeft);
