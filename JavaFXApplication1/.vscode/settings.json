@@ -1,0 +1,15 @@
+{
+    "java.project.referencedLibraries": [
+        "c:\\Users\\donct\\Documents\\EclipseProjects\\javafx-sdk-23.0.1\\lib\\javafx.graphics.jar",
+        "c:\\Users\\donct\\Documents\\EclipseProjects\\javafx-sdk-23.0.1\\lib\\javafx-swt.jar",
+        "c:\\Users\\donct\\Documents\\EclipseProjects\\javafx-sdk-23.0.1\\lib\\javafx.media.jar",
+        "c:\\Users\\donct\\Documents\\EclipseProjects\\javafx-sdk-23.0.1\\lib\\javafx.base.jar",
+        "c:\\Users\\donct\\Documents\\EclipseProjects\\javafx-sdk-23.0.1\\lib\\javafx.swing.jar",
+        "c:\\Users\\donct\\Documents\\EclipseProjects\\javafx-sdk-23.0.1\\lib\\javafx.controls.jar",
+        "c:\\Users\\donct\\Documents\\EclipseProjects\\javafx-sdk-23.0.1\\lib\\javafx.fxml.jar",
+        "c:\\Users\\donct\\Documents\\EclipseProjects\\javafx-sdk-23.0.1\\lib\\javafx.web.jar"
+    ],
+    "java.project.sourcePaths": [
+        "src"
+    ]
+}
