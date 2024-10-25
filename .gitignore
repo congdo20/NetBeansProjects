@@ -1,3 +1,10 @@
 javafx-sdk-23.0.1/
 mysql-connector-j-9.0.0/
 .DS_Store
+*.docx
+*.pdf
+mysql-connector-j-*/
+javafx-sdk-*/
+*.docx
+*.pdf
+
