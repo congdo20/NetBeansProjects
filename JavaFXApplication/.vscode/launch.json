@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RadioButtonDemo",
+            "request": "launch",
+            "mainClass": "laptrinhnangcao.RadioButtonDemo",
+            "projectName": "JavaFXApplication_7d45f379"
+        },
+        {
+            "type": "java",
             "name": "CheckBoxDemo",
             "request": "launch",
             "mainClass": "laptrinhnangcao.CheckBoxDemo",

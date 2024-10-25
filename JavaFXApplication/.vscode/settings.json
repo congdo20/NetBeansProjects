@@ -10,6 +10,8 @@
         "/Users/trinhdo/Documents/EclipseProjects/javafx-sdk-23.0.1/lib/javafx.swing.jar",
         "/Users/trinhdo/Documents/EclipseProjects/javafx-sdk-23.0.1/lib/javafx.web.jar",
         "/Users/trinhdo/Documents/EclipseProjects/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0.jar",
-        "/Users/trinhdo/Documents/JavaFXJDK/zulu23.30.13-ca-fx-jdk23.0.1-macosx_aarch64/**/*.jar"
-    ]
+        "/Users/trinhdo/Documents/JavaFXJDK/zulu23.30.13-ca-fx-jdk23.0.1-macosx_aarch64/**/*.jar",
+        "/Users/trinhdo/Documents/JavaFXJDK/zulu21.38.21-ca-fx-jdk21.0.5-macosx_aarch64/zulu-21.jdk/Contents/**/*.jar"
+    ],
+    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m -Xlog:disable"
 }
